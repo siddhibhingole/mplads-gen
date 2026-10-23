@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "object",
+  "required": [
+    "alert_id",
+    "audience",
+    "summary",
+    "claims",
+    "evidence_ids",
+    "limitations"
+  ],
+  "properties": {
+    "alert_id": {
+      "type": "string"
+    },
+    "audience": {
+      "enum": [
+        "citizen",
+        "officer",
+        "admin"
+      ]
+    },
+    "summary": {
+      "type": "string",
+      "maxLength": 500
+    },
+    "claims": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 500
+      }
+    },
+    "evidence_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "maxLength": 300
+      }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,1 @@
+All bundled records are synthetic and do not represent real projects, officials, payments, or public records. `works.json` has 240 records; `evidence.json` has 20 linked evidence records; `bad_rows.json` has invalid/duplicate examples.

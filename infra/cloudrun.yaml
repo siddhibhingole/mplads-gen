@@ -1,0 +1,18 @@
+apiVersion: serving.knative.dev/v1
+kind: Service
+metadata:
+  name: mplads-sentinel-api
+spec:
+  template:
+    spec:
+      serviceAccountName: mplads-sentinel-runtime
+      containers:
+      - image: REGION-docker.pkg.dev/PROJECT_ID/mplads/sentinel-api:VERSION
+        ports: [{containerPort: 8080}]
+        env:
+        - {name: APP_ENV, value: production}
+        - {name: AUTH_MODE, value: firebase}
+        - {name: GOOGLE_CLOUD_PROJECT, value: PROJECT_ID}
+        - {name: GOOGLE_CLOUD_LOCATION, value: asia-south1}
+        - {name: ENABLE_VERTEX, value: "true"}
+        resources: {limits: {cpu: "1", memory: 1Gi}}

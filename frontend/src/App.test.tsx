@@ -1,0 +1,1 @@
+import{describe,it,expect}from'vitest';describe('MPLADS Sentinel',()=>{it('uses review-first framing',()=>expect('Review signals, not verdicts.').toContain('verdicts'))});

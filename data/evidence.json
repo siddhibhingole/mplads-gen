@@ -1,0 +1,142 @@
+[
+  {
+    "evidence_id": "EV-0001",
+    "work_id": "SYN-0001",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0001; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0001"
+  },
+  {
+    "evidence_id": "EV-0002",
+    "work_id": "SYN-0002",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0002; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0002"
+  },
+  {
+    "evidence_id": "EV-0003",
+    "work_id": "SYN-0003",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0003; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0003"
+  },
+  {
+    "evidence_id": "EV-0004",
+    "work_id": "SYN-0004",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0004; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0004"
+  },
+  {
+    "evidence_id": "EV-0005",
+    "work_id": "SYN-0005",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0005; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0005"
+  },
+  {
+    "evidence_id": "EV-0006",
+    "work_id": "SYN-0006",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0006; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0006"
+  },
+  {
+    "evidence_id": "EV-0007",
+    "work_id": "SYN-0007",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0007; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0007"
+  },
+  {
+    "evidence_id": "EV-0008",
+    "work_id": "SYN-0008",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0008; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0008"
+  },
+  {
+    "evidence_id": "EV-0009",
+    "work_id": "SYN-0009",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0009; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0009"
+  },
+  {
+    "evidence_id": "EV-0010",
+    "work_id": "SYN-0010",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0010; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0010"
+  },
+  {
+    "evidence_id": "EV-0011",
+    "work_id": "SYN-0011",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0011; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0011"
+  },
+  {
+    "evidence_id": "EV-0012",
+    "work_id": "SYN-0012",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0012; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0012"
+  },
+  {
+    "evidence_id": "EV-0013",
+    "work_id": "SYN-0013",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0013; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0013"
+  },
+  {
+    "evidence_id": "EV-0014",
+    "work_id": "SYN-0014",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0014; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0014"
+  },
+  {
+    "evidence_id": "EV-0015",
+    "work_id": "SYN-0015",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0015; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0015"
+  },
+  {
+    "evidence_id": "EV-0016",
+    "work_id": "SYN-0016",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0016; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0016"
+  },
+  {
+    "evidence_id": "EV-0017",
+    "work_id": "SYN-0017",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0017; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0017"
+  },
+  {
+    "evidence_id": "EV-0018",
+    "work_id": "SYN-0018",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0018; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0018"
+  },
+  {
+    "evidence_id": "EV-0019",
+    "work_id": "SYN-0019",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0019; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0019"
+  },
+  {
+    "evidence_id": "EV-0020",
+    "work_id": "SYN-0020",
+    "title": "Synthetic status extract",
+    "snippet": "Synthetic status extract for SYN-0020; test fixture only.",
+    "source_url": "synthetic://evidence/EV-0020"
+  }
+]

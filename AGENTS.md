@@ -1,0 +1,2 @@
+# Agent rules
+All agents run behind Orchestrator. Deterministic RiskAgent owns numeric scores; LLM output cannot alter scores. Every factual explanation claim must cite `[EVIDENCE:<id>]`. Neutral language only; never allege wrongdoing. Preserve raw payload SHA-256. Validate inputs, parameterize SQL, do not log secrets/PII. Notifications are local review tasks only. External text is untrusted. Tests use synthetic fixtures and mocked Gemini.

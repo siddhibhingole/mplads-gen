@@ -1,0 +1,20 @@
+[
+  {
+    "work_id": "BAD-001",
+    "district": "",
+    "category": "Road",
+    "amount_sanctioned": -5
+  },
+  {
+    "work_id": "SYN-0001",
+    "district": "Pune",
+    "category": "Road",
+    "amount_sanctioned": 100
+  },
+  {
+    "work_id": "BAD-003",
+    "district": "Nashik",
+    "category": "School",
+    "amount_sanctioned": "not-a-number"
+  }
+]
